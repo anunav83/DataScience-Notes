@@ -5,7 +5,7 @@
 
 * Statistics Class : UC Berkeley Extension
 
-* ython Courses : UC Berekeley Externsion
+* Python Courses : UC Berekeley Externsion
 
 * SQL & BigQuery : Kaggle 
 
