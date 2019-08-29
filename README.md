@@ -1,9 +1,12 @@
-### Notes from DataCamp Courses
+## Notes 
+*DataCamp Courses
 
-### Notes from Machine Learning Classes : UC Berkeley Extension
+*Machine Learning Classes : UC Berkeley Extension
 
-### Notes from Statistics Class : UC Berkeley Extension
+*Statistics Class : UC Berkeley Extension
 
-### Notes from Python Courses : UC Berekeley Externsion
+*Python Courses : UC Berekeley Externsion
 
-### Notes from SQL & BigQuery : Kaggle 
+*SQL & BigQuery : Kaggle 
+
+*BigData & Spark : UC Berekeley Ext
