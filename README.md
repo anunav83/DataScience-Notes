@@ -1,12 +1,12 @@
 ## Notes 
-*DataCamp Courses
+* DataCamp Courses
 
-*Machine Learning Classes : UC Berkeley Extension
+* Machine Learning Classes : UC Berkeley Extension
 
-*Statistics Class : UC Berkeley Extension
+* Statistics Class : UC Berkeley Extension
 
-*Python Courses : UC Berekeley Externsion
+* ython Courses : UC Berekeley Externsion
 
-*SQL & BigQuery : Kaggle 
+* SQL & BigQuery : Kaggle 
 
-*BigData & Spark : UC Berekeley Ext
+* BigData & Spark : UC Berekeley Ext
